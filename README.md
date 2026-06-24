@@ -18,3 +18,19 @@ const me = {
     backend: "🐍 FastAPI · 🔗 REST · 📊 GraphQL"
   }
 }
+
+##Front Capabilities
+
+⚛️ React         - Hooks, Components, Context
+🔄 Redux         - Actions, Reducers, Middleware, Thunks
+📝 TypeScript    - Interfaces, Generics, Strict Typing
+📝 JavaScript    - ES6+, Async/Await, Promises
+🎨 CSS/SCSS     - Responsive, Flexbox, Grid
+
+
+##Backend Knowledge
+
+🐍 FastAPI      - Async endpoints, Pydantic, Type hints
+🔗 REST APIs    - CRUD, Authentication, Error handling
+📊 GraphQL      - Queries, Mutations, Schema design
+🗄️ Databases    - PostgreSQL, MongoDB (basic)
